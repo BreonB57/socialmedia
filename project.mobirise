@@ -1,28 +1,29 @@
 {
   "settings": {
-    "name": "Social Media",
+    "name": "Glider Pro x",
     "currentPage": "index.html",
     "theme": {
-      "name": "mobirise3",
-      "title": "Mobirise 3",
+      "name": "spacem",
+      "title": "SpaceM",
       "styling": {
-        "primaryColor": "#c0a375",
-        "secondaryColor": "#bfcecb",
-        "successColor": "#90a878",
-        "infoColor": "#7e9b9f",
-        "warningColor": "#f3c649",
-        "dangerColor": "#f28281",
-        "titleFont": "Montserrat",
-        "subtitleFont": "Lora",
-        "textFont": "Raleway",
-        "isRoundedButtons": false,
-        "isAnimatedOnScroll": true,
-        "isScrollToTopButton": false
+        "primaryColor": "#D901ED",
+        "secondaryColor": "#46004C",
+        "successColor": "#2BE080",
+        "infoColor": "#1A5CEB",
+        "warningColor": "#E0C119",
+        "dangerColor": "#EB5A1A",
+        "titleFont": "Arapey",
+        "subtitleFont": "Lato",
+        "textFont": "Lato",
+        "isRoundedButtons": true
       }
     },
     "versionFirst": "3.10.4",
-    "uniqCompNum": 1,
-    "versionPublish": "3.10.4"
+    "uniqCompNum": 11,
+    "versionPublish": "3.10.4",
+    "mcShopcart": {
+      "email": "icreativecrum@gmail.com"
+    }
   },
   "pages": {
     "index.html": {
@@ -36,20 +37,175 @@
       },
       "components": [
         {
-          "_customTemplate": true,
-          "_afterNavbarItem": false,
-          "_customHTML": "<!-- Type valid HTML here -->\n{JS_CODE_0}<div style=\"font-size:80%; text-align:center;\" id=\"qe1788590ct4lk1prm0\"></div>",
-          "_customCSS": "/* Type valid CSS here */\n.my-image {\n  width: 100%;\n}",
-          "alias": "code-editor",
+          "title4": "<a href=\"http://mobirise.com\">mitchel jobs</a>",
+          "subtitle4": "<a href=\"http://mobirise.com\">application</a>",
+          "text4": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Dolorum dolorem quo in, animi iste magnam, saepe accusantium veritatis vitae perferendis delectus eligendi officia nulla pariatur incidunt culpa vel doloribus rem.",
+          "media4": {
+            "image": {
+              "class": "mbr-figure__img",
+              "src": "@THEME_PATH@/components/_images/news_item_4.jpg"
+            }
+          },
+          "date4": "09/09/2016",
+          "alias": "spacem/components",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "news1",
+          "_anchor": "news1-6",
+          "_params": {
+            "paddingTop": 2,
+            "paddingBottom": 2,
+            "parallax": false,
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/2.jpg",
+            "bgColor": "#000000",
+            "bgColorRadio": true,
+            "bgVideo": {
+              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": true,
+            "overlayOpacity": 0.75,
+            "overlayColor": "#151515",
+            "showImages": true,
+            "showSubtitle": false,
+            "showTitle": true,
+            "showText": true,
+            "showDate": false
+          },
+          "media1": {
+            "image": {
+              "class": "mbr-figure__img",
+              "src": "@PROJECT_PATH@/assets/images/aerion-1vr-1200x1200-94.jpg",
+              "active": true,
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
+            }
+          },
+          "subtitle1": "<a href=\"http://mobirise.com\">application</a>",
+          "title1": "Extra Fast",
+          "text1": "At 27mm thick when closed and weighing a truly portable 2.4kg, the Glider Pro X is exceptionally light and portable for such a powerful machine, and delivers sim performance seemingly at odds with its stature. At the heart of the laptop beats a quad core Intel Core i7 6700HQ processor running at up to 3.5GHz, 16GB of RAM and the mighty NVIDIA GTX 1060 6GB video card.",
+          "date1": "",
+          "media2": {
+            "image": {
+              "class": "mbr-figure__img",
+              "src": "@PROJECT_PATH@/assets/images/defiant6-1-1200x1200-37.jpg",
+              "active": true,
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
+            }
+          },
+          "subtitle2": "<a href=\"http://mobirise.com\">application</a>",
+          "title2": "<a href=\"http://mobirise.com\">D</a>esigned For gaming",
+          "text2": "With a core i7 Chassis, and SSD this laptop was designed for gaming.&nbsp;This desktop class GPU is fully compatible with Intel’s hybrid GPU feature so when you are using your machine for something less demanding than gaming, the GeForce switches off and the Intel HD graphics take over, saving power in the process. ",
+          "date2": "",
+          "media3": {
+            "image": {
+              "class": "mbr-figure__img",
+              "src": "@PROJECT_PATH@/assets/images/defiant6-4-1200x1200-24.jpg",
+              "active": true,
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
+            }
+          },
+          "subtitle3": "<a href=\"http://mobirise.com\">application</a>",
+          "title3": "Every port",
+          "text3": "In terms of connectivity the Glider Pro X is truly next gen. It has one USB 3.1 ports, two USB 3.0 ports, a mini DisplayPort connector, 1.4b HDMI and a pair of audio jacks. You'll get to enjoy built-in 802.11AC wireless, Gigabit Ethernet and Bluetooth 4.0.",
+          "date3": "",
+          "_styles": {
+            "A": {
+              "color": "#ffffff"
+            },
+            "H3": {
+              "color": "#ffffff"
+            },
+            "P": {
+              "color": "#ffffff"
+            }
+          }
+        },
+        {
+          "alias": "spacem/components",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header3",
+          "_anchor": "header3-8",
+          "_params": {
+            "paddingTop": 2,
+            "paddingBottom": 2,
+            "imageSize": 50,
+            "parallax": true,
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/header5.jpg",
+            "bgColor": "#000000",
+            "bgColorRadio": true,
+            "bgVideo": {
+              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": true,
+            "overlayOpacity": 0.35,
+            "overlayColor": "#151515",
+            "inverse": true,
+            "showMedia": true,
+            "showTitle": true,
+            "showSubtitle": true,
+            "showButtons": true
+          },
+          "media": {
+            "image": {
+              "class": "mbr-figure__img",
+              "src": "@PROJECT_PATH@/assets/images/defiant6-1-1200x1200-98.jpg",
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false,
+              "active": true
+            },
+            "video": {
+              "src": "https://www.youtube.com/watch?v=axMabrSDrI8",
+              "class": "mbr-figure__img",
+              "aspectratio": "16:9",
+              "autoplay": false,
+              "loop": false
+            }
+          },
+          "title": "<span style=\"font-weight: normal;\"><i>Specs</i></span>",
+          "text": "Processor: Intel Core i7-6700HQ Skylake CPU, 4 Cores, 2.6 - 3.5GHz<br>Display: 15.6\" SuperBright LED True HD Display (1920x1080 Resolution)<br>Memory: 16GB DDR4 2133MHz Memory (2 x 8GB SO-DIMM)<br>Graphics: NVIDIA GeForce GTX 1060 6GB GDDR5<br>Storage: 256GB Samsung SM961 M.2 PCIe Solid State Drive<br>Storage 2: Seagate 1TB 2.5\" SSHD Hybrid Drive<br>Optical Drive: Slimline DVD-RW<br>Conferencing: Built in Microphone and HD Webcam<br>Speakers: Stereo Speakers<br>Dimensions: 418.5mm x 287mm x 21.8mm<br>Networking: 10/100/1000 Gigabit Ethernet LAN, Wireless AC LAN<br>Video Ports: 1x HDMI Port, 1 x VGA, 2 x Mini DisplayPort<br>Connectivity: 2x USB 3.0 Ports, 1x USB 3.1 Ports (Type C), 1 x USB 2.0<br>Audio: 1x Microphone in jack, 1x Headphone out jack, 1 x SP/DIF<br>Battery: 6 Cell Smart Lithium-ION Battery<br>Card Reader: SD Card Reader<br>Operating System: Windows 10 Home 64-bit<br>",
+          "buttons": "<a data-app-btn=\"true\" href=\"http://mobirise.com\" class=\"btn btn-primary\" role=\"button\">Buy now</a>"
+        },
+        {
+          "alias": "facebook-comments",
           "_tags": [
             "Extension"
           ],
-          "_name": "pro.custom-html",
-          "_anchor": "custom-html-0",
-          "_PHPplaceholders": [],
-          "_JSplaceholders": [
-            "<script type=\"text/javascript\" src=\"http://qe1788590c.embed.talkiforum.com/embed/1.js\"></script>"
-          ]
+          "_name": "facebook-comments-block",
+          "_anchor": "facebook-comments-block-a",
+          "_params": {
+            "postsNumber": 5,
+            "bgImage": "@ADDONS_PATH@/facebook-comments/facebook-comments-block/assets/comments_bg.jpg",
+            "bgImageRadio": false,
+            "bgColor": "#000000",
+            "bgColorRadio": true,
+            "overlay": true,
+            "overlayOpacity": 0.6,
+            "overlayColor": "#7e9b9f",
+            "socialFacebook": true,
+            "socialGoogle": false,
+            "shortName": "",
+            "socialDisqus": false
+          },
+          "innerText": "<div class=\"facebookPlaceholder\" data-numposts=\"\"><h2>FACEBOOK COMMENTS WILL BE SHOWN ONLY WHEN YOUR SITE IS ONLINE</h2> <img src=\"@PROJECT_PATH@/assets/images/facebook-comments.jpg\"></div>",
+          "innerTextGoogle": "<div class=\"googlePlaceholder\" data-numposts=\"\"><h2>GOOGLE COMMENTS WILL BE SHOWN ONLY WHEN YOUR SITE IS ONLINE</h2> <img src=\"@ADDONS_PATH@/facebook-comments/facebook-comments-block/assets/google-comments.jpg\"></div>",
+          "innerTextDisqus": "<div class=\"disqusPlaceholder\" data-numposts=\"\"><h2>DISQUS COMMENTS WILL BE SHOWN ONLY WHEN YOUR SITE IS ONLINE</h2> <img src=\"@ADDONS_PATH@/facebook-comments/facebook-comments-block/assets/disqus-comments.jpg\"></div>"
         }
       ]
     }
